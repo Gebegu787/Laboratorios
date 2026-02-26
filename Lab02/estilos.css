@@ -20,6 +20,7 @@
         .styled th, .styled td {
             border: 1px solid #ccc;
             padding: 8px;
+            text-align: left;
         }
  
         .styled th {
